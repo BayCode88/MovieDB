@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_tv"
+        android:title="Television"
+        android:icon="@drawable/tv_icon"/>
+
+    <item
+        android:id="@+id/menu_movie"
+        android:title="Movie"
+        android:icon="@drawable/movie"/>
+
+    <item
+        android:id="@+id/menu_profil"
+        android:title="Profil"
+        android:icon="@drawable/profil"/>
+
+</menu>
